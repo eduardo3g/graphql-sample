@@ -15,10 +15,10 @@ The main features are detailed below:
 2. Create comments
 3. Delete comments
 
-### Technologies
+## Technologies
 Now let's take a look at the technologies used to develop the features mentioned above.
 
-#### Back-End
+### Back-End
 
 - GraphQL
 - Apollo Server
@@ -26,7 +26,7 @@ Now let's take a look at the technologies used to develop the features mentioned
 - MongoDB
 - NPM / Yarn as package managers
 
-#### Front-End
+### Front-End
 
 - ReactJS
 - GraphQL
