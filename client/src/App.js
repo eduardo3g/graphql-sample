@@ -43,7 +43,7 @@ export default function App() {
       <h1>Latest Comments</h1>
       <Form onAddComment={handleAddComment} />
       {loading ? (
-        'Carregando...'
+        'Loading...'
       ) : (
         <section className='comments'>
           {data.comments.map(({ id, name, content }) => (

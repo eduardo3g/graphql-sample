@@ -35,19 +35,19 @@ export default function Form({ onAddComment }) {
     <form onSubmit={handleSubmit}>
       <input
         type="text"
-        placeholder="Digite o seu nome"
+        placeholder="Type your name"
         value={name}
         onChange={e => setName(e.target.value)}
         required
       />
       <input
         type="text"
-        placeholder="Digite o seu comentário"
+        placeholder="Tell us anything you want to say..."
         value={content}
         onChange={e => setContent(e.target.value)}
         required
       />
-      <button type="submit">Comentar</button>
+      <button type="submit">Submit comment</button>
     </form>
   );
 }
