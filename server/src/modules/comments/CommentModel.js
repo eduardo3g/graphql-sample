@@ -16,4 +16,4 @@ const schema = new Schema(
   }
 );
 
-export default model("Comment", schema);
+export default model('Comment', schema);
