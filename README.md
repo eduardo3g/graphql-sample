@@ -66,7 +66,7 @@ If you want to test your back-end, simply access `http://localhost:4000` on your
 which is a tool provided by Apollo Server to send requests to your GraphQL API. Here we have an example:
 
 <p align="center">
-  <img alt="Apollo Server Playground" title="Apollo Server Playground" src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-9/87155278_2649945801901049_1256589692871114752_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=QgZkfzEGN9QAX_8ozp7&_nc_ht=scontent.fcgh7-1.fna&oh=91bfaca324a5ea9217e236d20f0285bc&oe=5E812C31" width="800px" />
+  <img alt="Apollo Server Playground" title="Apollo Server Playground" src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-0/p180x540/87155278_2649945801901049_1256589692871114752_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=ASWEbpnTDu8AX_qcAf5&_nc_ht=scontent.fcgh7-1.fna&_nc_tp=6&oh=1b37f94ca3c33ba5fd41e5bdb7a927ef&oe=5EB3F1DA" width="800px" />
 </p>
 
 ### Front-End
