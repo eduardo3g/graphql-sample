@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GraphQL" title="GraphQL" src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-9/p960x960/88014204_2649936828568613_3134591441859248128_o.jpg?_nc_cat=108&_nc_sid=8024bb&_nc_ohc=HBRISGVuMasAX9reXJm&_nc_ht=scontent.fcgh7-1.fna&_nc_tp=6&oh=b839731d48bbf75a11dcb0416b47761c&oe=5E93FD64" width="200px" />
+  <img alt="GraphQL Logo" title="GraphQL" src="./.github/graphql-logo.jpg" width="200px" />
 </p>
 
 <h3 align="center">
@@ -66,7 +66,7 @@ If you want to test your back-end, simply access `http://localhost:4000` on your
 which is a tool provided by Apollo Server to send requests to your GraphQL API. Here we have an example:
 
 <p align="center">
-  <img alt="Apollo Server Playground" title="Apollo Server Playground" src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-0/p180x540/87155278_2649945801901049_1256589692871114752_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=ASWEbpnTDu8AX_qcAf5&_nc_ht=scontent.fcgh7-1.fna&_nc_tp=6&oh=1b37f94ca3c33ba5fd41e5bdb7a927ef&oe=5EB3F1DA" width="800px" />
+  <img alt="Apollo Server Playground" title="Apollo Server Playground" src="./.github/playground.jpg" width="800px" />
 </p>
 
 ### Front-End
@@ -78,5 +78,5 @@ yarn start
 If you made this far, a new tab will be opened on your default browser. Below there's a preview of the ReactJS app ⚛
 
 <p align="center">
-  <img alt="Apollo Server Playground" title="Apollo Server Playground" src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-9/87267144_2649938275235135_4867824158425219072_o.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=8KaUFsu5sSYAX_NN3fm&_nc_ht=scontent.fcgh7-1.fna&oh=1ced8b68ea235b1c274ddc28f3cab87c&oe=5E99E562" width="800px" />
+  <img alt="Application preview" title="Preview" src="./.github/preview.jpg" width="800px" />
 </p>
